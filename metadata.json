@@ -1,0 +1,5 @@
+{
+  "name": "Smart Shopper Yekaterinburg",
+  "description": "A smart family meal planner and grocery budget optimizer tailored for Yekaterinburg prices, utilizing Gemini AI for menu planning and simulated price comparison.",
+  "requestFramePermissions": []
+}
